@@ -1,2 +1,0 @@
-# UrbeHack
-Hackaton urbe campus
